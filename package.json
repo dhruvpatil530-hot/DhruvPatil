@@ -1,0 +1,19 @@
+{
+  "name": "dhruvpatil-event-talks-app",
+  "version": "1.0.0",
+  "description": "A premium web application built with Python Flask and vanilla CSS/JS to track and share BigQuery Release Notes.",
+  "main": "app.py",
+  "scripts": {
+    "start": "py app.py",
+    "dev": "py app.py"
+  },
+  "keywords": [
+    "bigquery",
+    "flask",
+    "release-notes",
+    "twitter",
+    "gcp"
+  ],
+  "author": "Dhruv Patil",
+  "license": "ISC"
+}
