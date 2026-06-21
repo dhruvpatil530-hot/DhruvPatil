@@ -1,0 +1,36 @@
+# Python bytecode / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+target/
+
+# IDE and Editor settings
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# OS-generated files
+Thumbs.db
+db.db
+Desktop.ini
+desktop.ini
+$RECYCLE.BIN/
+
+# Flask/Development environment
+instance/
+.webassets-cache
+.env
+.flaskenv
+
+# Log files
+*.log
